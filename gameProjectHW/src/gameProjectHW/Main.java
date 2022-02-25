@@ -14,7 +14,7 @@ import gameProjectHW.Entities.Player;
 public class Main {
 
 	public static void main(String[] args) throws RemoteException {
-		Player player1 = new Player(1,"Ali Anýl","Erpak",1992,41378065734L);
+		Player player1 = new Player(1,"Ali Anýl","Erpak",1992,1234567890L);
 		Game game1 = new Game(1,"GTA SAN ANDREAS",1000);
 		Campaign campaign1 = new Campaign(1,"NEW YEAR",20);
 		
